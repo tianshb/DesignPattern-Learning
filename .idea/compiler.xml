@@ -6,12 +6,35 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Adapter" />
+        <module name="Command" />
+        <module name="Composite" />
         <module name="Decorator" />
+        <module name="Facade" />
+        <module name="Factory" />
+        <module name="Iterator" />
+        <module name="Proxy" />
+        <module name="Singleton" />
+        <module name="State" />
+        <module name="Strategy" />
+        <module name="Template" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
+      <module name="Adapter" target="1.5" />
+      <module name="Command" target="1.5" />
+      <module name="Composite" target="1.5" />
       <module name="Decorator" target="1.5" />
       <module name="DesignPattern" target="1.5" />
+      <module name="Facade" target="1.5" />
+      <module name="Factory" target="1.5" />
+      <module name="Iterator" target="1.5" />
+      <module name="Proxy" target="1.5" />
+      <module name="RMI" target="1.5" />
+      <module name="Singleton" target="1.5" />
+      <module name="State" target="1.5" />
+      <module name="Strategy" target="1.5" />
+      <module name="Template" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

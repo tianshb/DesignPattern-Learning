@@ -7,6 +7,21 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>Decorator</module>
+      <module>Factory</module>
+    <module>Singleton</module>
+      <module>Command</module>
+      <module>Adapter</module>
+    <module>Adapter</module>
+    <module>Adapter</module>
+      <module>Facade</module>
+    <module>Template</module>
+    <module>Template</module>
+      <module>Iterator</module>
+      <module>Composite</module>
+      <module>Strategy</module>
+      <module>State</module>
+    <module>Proxy</module>
+      <module>RMI</module>
   </modules>
   <packaging>pom</packaging>
 

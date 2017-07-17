@@ -2,6 +2,18 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Adapter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Command" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Composite" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Decorator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Factory" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Iterator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RMI" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Singleton" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/State" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Strategy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Template" charset="UTF-8" />
   </component>
 </project>
